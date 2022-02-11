@@ -19,7 +19,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>bool</td>
-      <td></td>
+      <td>minga</td>
     </tr>
     <tr>
       <td>byte</td>
@@ -135,7 +135,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>new</td>
-      <td>forony</td>
+      <td>vao</td>
     </tr>
     <tr>
       <td>null</td>
@@ -159,7 +159,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>struct</td>
-      <td></td>
+      <td>sokajy</td>
     </tr>
     <tr>
       <td>switch</td>
